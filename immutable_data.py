@@ -20,7 +20,7 @@ Scientist = collections.namedtuple('Scientist', [
 scientists = (
     Scientist(name='hamim phopal', field='programming', born=1993, nobel=False),
     Scientist(name='sam phopal', field='gaming', born=2003, nobel=False),
-    Scientist(name='adam phopal', field='music', born=1993, nobel=False),
+    Scientist(name='adam phopal', field='music', born=1993, nobel=True),
 )
     
 scientists
